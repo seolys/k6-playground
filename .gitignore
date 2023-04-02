@@ -1,3 +1,8 @@
+# idea
+.idea
+.DS_Store
+.temp
+
 # Compiled class file
 *.class
 
